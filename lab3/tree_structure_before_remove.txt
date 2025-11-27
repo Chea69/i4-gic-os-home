@@ -1,0 +1,35 @@
+/home/masovitchea/lab3
+├── CopyingFolder
+│   ├── Desktop
+│   ├── copied.txt
+│   ├── five.txt
+│   ├── four.txt
+│   ├── one.txt
+│   ├── three.txt
+│   └── two.txt
+├── Desktop
+│   ├── CopyingFolder
+│   │   ├── Desktop
+│   │   ├── copied.txt
+│   │   ├── five.txt
+│   │   ├── four.txt
+│   │   ├── one.txt
+│   │   ├── three.txt
+│   │   └── two.txt
+│   └── FrenchFolder
+│       ├── document_cinq.txt
+│       ├── document_deux.txt
+│       ├── document_quatre.txt
+│       ├── document_trois.txt
+│       └── document_un.txt
+├── Documents
+│   ├── copied.txt
+│   ├── five.txt
+│   ├── four.txt
+│   ├── one.txt
+│   ├── three.txt
+│   └── two.txt
+├── MoveFolder
+└── tree_structure_before_remove.txt
+
+9 directories, 24 files

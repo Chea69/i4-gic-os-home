@@ -1,0 +1,31 @@
+    1  mkdir lab1
+    2  ls
+    3  touch file1
+    4  ls
+    5  whoami
+    6  is
+    7  pwd
+    8  history
+    9  man
+   10  echo $HISTSIZE
+   11  $USER
+   12  echo $USER
+   13  $PATH
+   14  man ls
+   15  ;
+   16  echo "Hello";
+   17  echo "World";
+   18  cd lab1
+   19  ls
+   20  mkdir lab1 LabFiles
+   21  ls
+   22  cd LabFiles
+   23  ls
+   24  touch doc1.txt doc2.txt
+   25  ls
+   26  cd
+   27  tree lab1
+   28  whoami
+   29  history
+   30  history | tail -n 5
+   31  history > lab1/commands_history.txt
