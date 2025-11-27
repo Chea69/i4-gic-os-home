@@ -1,0 +1,11 @@
+total 36
+drwxrwxr-x  2 gic-ma-sovitchea gic-ma-sovitchea 4096 Nov 27 15:57 class_activity1
+drwxrwxr-x  2 gic-ma-sovitchea gic-ma-sovitchea 4096 Nov 27 16:08 class_activity2
+drwxrwxr-x  2 gic-ma-sovitchea gic-ma-sovitchea 4096 Nov 27 16:09 class_activity3
+drwxrwxr-x  3 gic-ma-sovitchea gic-ma-sovitchea 4096 Oct 23 16:20 Desktop
+drwxrwxr-x  3 gic-ma-sovitchea gic-ma-sovitchea 4096 Oct 23 16:20 Document
+-rw-rw-r--  1 gic-ma-sovitchea gic-ma-sovitchea    0 Oct 16 16:30 file1
+drwxrwxr-x  3 gic-ma-sovitchea gic-ma-sovitchea 4096 Oct 23 15:39 lab1
+drwxrwxr-x  4 gic-ma-sovitchea gic-ma-sovitchea 4096 Oct 23 15:47 lab2
+drwxr-xr-x 10 gic-ma-sovitchea gic-ma-sovitchea 4096 Nov 20 15:39 lab3
+drwxrwxr-x  2 gic-ma-sovitchea gic-ma-sovitchea 4096 Nov 27 16:42 lab4
